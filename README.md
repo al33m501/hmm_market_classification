@@ -5,3 +5,10 @@
 ```bash
 pip install -r requirements.txt
 ```
+
+To reproduce results, run:
+```bash
+python main.py
+```
+
+Output plots will be stored in `output/`
